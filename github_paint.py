@@ -1,9 +1,9 @@
 """
-Python 3.9 Программа для изменения количества комментариев github
-Название файла 'github_paint.py'
+Python 3.9  github
+ 'github_paint.py'
 
 Version: 0.1
-Author: Andrej Marinchenko
+Author: Nathan b Tayework
 Date: 2021-11-06
 """
 
